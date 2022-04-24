@@ -71,7 +71,7 @@ var input3 = {
 
 console.log('Output 3: ', solution(input3));
 
-// TESTING CORNER CONSTRAINTS FOR VALUES
+// TESTING CORNER CONSTRAINTS FOR DATES
 var input4 = {
     '1970-01-01': 1000,
     '2020-01-02': 1,
